@@ -1,3 +1,5 @@
 {
-    
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "700"
 }
